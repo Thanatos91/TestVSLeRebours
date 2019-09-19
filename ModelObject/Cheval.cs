@@ -5,5 +5,6 @@ namespace ModelObject
     public class Cheval
     {
         private int idCheval;
+        // Commentaire
     }
 }
