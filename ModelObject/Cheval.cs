@@ -4,5 +4,6 @@ namespace ModelObject
 {
     public class Cheval
     {
+        int ;
     }
 }
